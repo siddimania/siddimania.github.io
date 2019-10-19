@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a46fc15-88e6-4493-995f-5914335bf85f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,7 @@
   </component>
   <component name="ProjectId" id="1SPQp1fpgmumI28gCS6oioPDVQ9" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -68,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571462929424</updated>
-      <workItem from="1571462930607" duration="355000" />
+      <workItem from="1571462930607" duration="1323000" />
     </task>
     <servers />
   </component>
