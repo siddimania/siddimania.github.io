@@ -9,7 +9,7 @@ email: siddimania@gmail.com
 #website: https://siddimania.github.io/
 
 # Social links
-#twitter_username: facespics
+twitter_username: siddimania
 github_username:  siddimania
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -22,11 +22,11 @@ linkedin_username: siddimania
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/sid.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siddhartha and I'm a software engineer. I have experience making software and mobile application. I have worked at a few companies gaining teamwork and leadership skills.
+  Hi, my name's Siddhartha Dimania and I'm a software developer. I have experience making product applications with over 4 years. I have worked at a few companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Ruby</mark>, <mark>Java</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in <mark>Ruby</mark> and <mark>Java</mark>
 
 # Projects Section
 # projects_title: Projects
