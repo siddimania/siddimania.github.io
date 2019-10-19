@@ -5,9 +5,9 @@
     The team’s objective was to build a platform(Web, Android, and iOS applications) to provide application solution for Study Material, Food Menu, Attendance, Exam Seating Plan, Past Question Papers and Event Notifications. The main challenge that I overcame was the implementation of the optimized APIs and background services. The usage and design of the applications were well received by the faculties and students. Now, the platform has more than 4000 active students.
 
 - layout: top-middle
-  name: Clan, Family Hub - Major Project (9.5/10)
-  link: www.linkedin.com/company/jiit-simplified
+  name: Clan, Family Hub - Major Project
+  link: www.github.com/siddimania/Clan-Family-Hub
   description: | # this will include new lines to allow paragraphs
-    Implemented a prototype android application with webdashboard for family Security and Networking.
-
+    Implemented a prototype android application with web dashboard for family Security and Networking. With this private mobile app, your family is always with you, no matter where they are. You can share photos, audio, and notes, keep a running list of reminders, tasks and important dates and even pinpoint exactly where everyone is, in real time. And best of all, by only inviting those you wish to join your group, CLAN stays cosy and secure.
+    You might say it’s kinda like a social network, but for the one group of people you actually care about: your family.
     Features: Location tracking & sharing, reminder, chat, SOS, Family wall, Force a Sound, Track via Web and Emergency Alerts.
