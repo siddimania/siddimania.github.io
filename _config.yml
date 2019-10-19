@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Siddhartha Dimania
-title: Software Engineer
+title: Software Developer
 email: siddimania@gmail.com
 #website: https://siddimania.github.io/
 
@@ -14,7 +14,7 @@ github_username:  siddimania
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: siddimania
+instagram_username: sid_dimania
 linkedin_username: siddimania
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -24,7 +24,7 @@ linkedin_username: siddimania
 # about_title: About Me
 about_profile_image: images/sid.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siddhartha Dimania and I'm a software developer. I have experience making product applications with over 4 years. I have worked at a few companies gaining teamwork and leadership skills.
+  Hi, my name's Siddhartha Dimania and I'm a software developer. I have experience making product applications with over 4 years. I have worked at a few companies gaining teamwork and leadership skills. I vie for constantly upgrading my technical skills in view of keeping pace with the ever-changing digital world.
 
   I am most skilled in <mark>Ruby</mark> and <mark>Java</mark>
 
@@ -40,13 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software development some of my other interests and hobbies are:
-   - Paiting
-   - Gaming
-   - Becoming a ninja
+  Last seven years have been the most changing time of my life but what remains constant is the desire to create something new with my technical acumen. Since the day I started programming there was a never-ending craving to implement applications that can solve real-life problems. With application design and implementation, I not only learned about complex theoretical concepts of programming but it facilitated me to visualize different aspects of software development.
+
+  My programming journey started when I joined the CS program at JIIT. At first, in my freshman year, I was apprehensive to see people from different backgrounds but later while working on group projects, I realized that we need all these diverse set of individuals to make a great product/project. Every individual has their own perspective when they work on a problem.
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme

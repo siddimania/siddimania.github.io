@@ -1,8 +1,13 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: JIIT Simplified
+  link: www.linkedin.com/company/jiit-simplified
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    The team’s objective was to build a platform(Web, Android, and iOS applications) to provide application solution for Study Material, Food Menu, Attendance, Exam Seating Plan, Past Question Papers and Event Notifications. The main challenge that I overcame was the implementation of the optimized APIs and background services. The usage and design of the applications were well received by the faculties and students. Now, the platform has more than 4000 active students.
+
+- layout: top-middle
+  name: Clan, Family Hub - Major Project (9.5/10)
+  link: www.linkedin.com/company/jiit-simplified
+  description: | # this will include new lines to allow paragraphs
+    Implemented a prototype android application with webdashboard for family Security and Networking.
+
+    Features: Location tracking & sharing, reminder, chat, SOS, Family wall, Force a Sound, Track via Web and Emergency Alerts.

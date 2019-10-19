@@ -1,12 +1,16 @@
 - layout: left
   company: Eligible Inc.
-  link: https://eligible.com/
+  link: www.eligible.com
   job_title: Software Engineer
   dates: June 2015 - July 2019
-  quote: >
-    Eligible is the best collections platform for insurance and patient management
   description: | # this will include new lines to allow paragraphs
-    • Implementation of real-time(270) and claims(837) connections.
-    • Optimized 270 transaction connections and reduced error rate from 40% to 10%.
-    • Achieved the milestone of reducing the response time of portal connections up to 50%.
-    • Implemented backup module that enhanced success rate up to 20% in case of real-time connections.
+    After completing my studies, I had worked with Eligible Inc.(New York) as a Software Engineer in Connection-Team. At Eligible, I learned about intricacies of the healthcare systems like the processes of eligibility & claims and how to securely transfer protected health information(PHI) to trading partners through EDI-x12. I handled important tasks like the implementation of real-time(270) & claim(837) connections and optimization of portal connections. As the team handled the core functionality of the company, I was vigilant at every stage.
+
+- layout: left
+  company: Zomato Media Pvt.Ltd
+  link: https://www.zomato.com
+  job_title: Summer Intern, Android Developer
+  dates: June - July 2014
+  description: | # this will include new lines to allow paragraphs
+    In the summer of 2014, I got an amazing opportunity to work as a Software Developer Intern at Zomato(India's largest restaurant search & discovery platform), New Delhi. Mainly, I worked on the cross-platform mobile application development and testing. The essence of the task was to determine the strengths and limitations of the framework. I was also given the responsibility to research and ascertain whether the company could use this framework to develop any future applications with a view of reducing implementation and maintenance costs. My biggest takeaway from this experience was how to effectively approach a unique problem.
+
