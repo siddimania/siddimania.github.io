@@ -1,13 +1,13 @@
 - layout: left
   name: University of Georgia
-  dates: 2019 - Present
+  dates: Aug 2019 - expected(2021)
   qualification: Masters' Computer Science
   description: | # this will include new lines to allow paragraphs
     I joined University of Georgia in Fall-2019 as a Masters' Student. The main focus of my study will be product application development and machine learning. I’m confident that this MS program would add many folds to every aspect of my personality and going to provide me with ample opportunities for developing a deeper insight into my specialization, fostering useful professional contacts and will serve me as the stepping-stone to a fulfilling career.
 
 - layout: left
   name: Jaypee Institute of Information Technology
-  dates: 2011 - 2015
+  dates: June 2011 - July 2015
   qualification: B.Tech Computer Science & Engineering
   description: | # this will include new lines to allow paragraphs
     In my undergrad years, I grew keen to implement my knowledge to solve students issues. That’s the reason I co-founded a digital solutions group named “JIITSimplified”. The team’s objective was to build a platform(Web, Android, and iOS applications) to provide application solution for Study Material, Food Menu, Attendance, Exam Seating Plan, Past Question Papers and Event Notifications. The main challenge that I overcame was the implementation of the optimized APIs and background services. The usage and design of the applications were well received by the faculties and students.
