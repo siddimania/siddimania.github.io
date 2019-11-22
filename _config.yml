@@ -24,9 +24,11 @@ linkedin_username: siddimania
 # about_title: About Me
 about_profile_image: images/sid.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siddhartha Dimania and I'm a software developer. I have experience making product applications with over 4 years. I have worked at a few companies gaining teamwork and leadership skills. I vie for constantly upgrading my technical skills in view of keeping pace with the ever-changing digital world.
+  Hi, my name is Siddhartha Dimania and I have experience making product applications with over 3 years. I'm passionate about building product applications and I possess good technical skills. I have worked at a few companies gaining teamwork and leadership skills. I vie for constantly upgrading my technical skills in view of keeping pace with the ever-changing digital world.
 
   I am most skilled in <mark>Ruby</mark> and <mark>Java</mark>
+
+  Currently, I am looking Software Engineer Internship for summer 2020.
 
 # Projects Section
 # projects_title: Projects
